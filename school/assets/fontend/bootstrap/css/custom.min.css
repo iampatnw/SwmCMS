@@ -1,0 +1,19 @@
+.bs-component .modal{
+	position:relative;
+	top:auto;
+	right:auto;
+	left:auto;
+	bottom:auto;
+	z-index:1;
+	display:block
+}
+.bs-component .modal-dialog{
+	width:90%
+}
+.bs-component .popover{
+	position:relative;
+	display:inline-block;
+	width:220px;
+	margin:20px;
+}
+		
